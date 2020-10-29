@@ -1,0 +1,21 @@
+.plant-div{
+
+    width: 60%;
+    height: auto;
+    max-height: 400px;
+    overflow: hidden;
+    background-color:#639418de;
+}
+
+.title{
+    color: white;
+    font-size: calc(17px + 1.5vw);
+    margin: 10px;
+
+}
+
+.medium-font{
+    font-size: calc(12px + 1.3vw );
+    color: white
+}
+
